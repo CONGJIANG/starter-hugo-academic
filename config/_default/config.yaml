@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yiran Wang # Website name
-baseURL: 'https://zywhy9.github.io' # Website URL
+title: Cong Jiang # Website name
+baseURL: 'https://CONGJIANG8.github.io' # Website URL
 
 ############################
 ## LANGUAGE
