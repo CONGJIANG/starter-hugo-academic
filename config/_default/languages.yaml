@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: '王祎然'
+  title: '姜聪'
   params:
-    description: '王祎然统计'
+    description: '姜聪统计'
   menu:
     main:
       - name: '关于'
