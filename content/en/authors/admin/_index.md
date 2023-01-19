@@ -67,9 +67,7 @@ email: 'cjiang698@gmail.com'
 highlight_name: false
 ---
 
-I am a third-year PhD student in the Department of Statistics and Actuarial Science at the University of Waterloo, supervised by Prof. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy). 
-
-I am currently a postdoctoral researcher at Université de Montréal under supervision of Prof. [Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html) and Prof. Denis Talbot (https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot/). 
+I am currently a postdoctoral researcher at Université de Montréal under supervision of Prof. [Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html) and Prof. [Denis Talbot] (https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot/). 
 I received my PhD from the University of Waterloo, where I worked under the supervision of Prof. [Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson) and Prof. [Michael P. Wallace](https://mpwallace.github.io/). 
 
 My primary research interest is in causal inference methodology. In general, I am interested in developing methodologies in Dynamic Treatment Regimes (DTRs), and implementing such methods in real-world scenarios. In the context of multi-stage treatment decisions, a DTR is a sequence of decision rules which at each stage takes patient information (such as age, health status, or prior treatment) as input, and outputs a treatment recommendation. There are two challenges of practical interest I am focusing on, which are assumption violation and competing outcomes.
