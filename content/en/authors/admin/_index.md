@@ -1,37 +1,35 @@
 ---
 # Display name
-title: Yiran Wang
+title: Cong Jiang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Statistics
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Statistics and Actuarial Science, University of Waterloo
-    url: https://uwaterloo.ca/statistics-and-actuarial-science/
+  - name: Faculté de pharmacie, Université de Montréal
+    url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical ecology, Bayesian statistics and its applications.
 
 # Interests to show in About widget
 interests:
-  - Bayesian Statistics
-  - Statistical Ecology
+  - Causal Inference
+  - Dynamic Treatment Regimes
+  - Interference
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Statistics
-      institution: University of Waterloo
-      year: 2023
-    - course: MSc in Statistics
-      institution: University of California, Irvine
-      year: 2019
-    - course: BSc in Statistics
-      institution: Donghua University
+      institution: University of Waterloo, CA
+      year: 2022
+    - course: MSc in Mathematics
+      institution: City University of New York, USA
       year: 2017
 
 # Social/Academic Networking
@@ -41,22 +39,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:y3577wan@uwaterloo.ca'
+    link: 'mailto:cong.jiang@umontreal.ca'
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Yiran_Wang32
+    link: https://www.researchgate.net/profile/Cong-Jiang-6
   - icon: github
     icon_pack: fab
-    link: https://github.com/zywhy9
+    link: https://github.com/CONGJIANG
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/harryyiranwang/
-  - icon: google
+    link: https://www.linkedin.com/in/clarencejiang/
+  - icon: google scholar
     icon_pack: fab
-    link: https://sites.google.com/view/yiranwangstat/home
-  - icon: video
-    icon_pack: fas
-    link: https://space.bilibili.com/749168
+    link: https://scholar.google.com/citations?user=L4Nw4HcAAAAJ&hl=en&oi=sra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -66,14 +61,17 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zywhy9@gmail.com'
+email: 'cjiang698@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a third-year PhD student in the Department of Statistics and Actuarial Science at the University of Waterloo, supervised by Prof. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy).  
+I am a third-year PhD student in the Department of Statistics and Actuarial Science at the University of Waterloo, supervised by Prof. [Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home) and Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy). 
 
-My research is mainly concerned with Bayesian hierarchical modeling and is motivated by applications in a variety of fields. Currently I am working on capture-recapture studies and integrated population model. Moreover, I am interested in various problems in Bayesian methods. I am still learning more and more new areas of statistics and biostatistics.
+I am currently a postdoctoral researcher at Université de Montréal under supervision of Prof. [Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html) and Prof. Denis Talbot (https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot/). 
+I received my PhD from the University of Waterloo, where I worked under the supervision of Prof. [Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson) and Prof. [Michael P. Wallace](https://mpwallace.github.io/). 
+
+My primary research interest is in causal inference methodology. In general, I am interested in developing methodologies in Dynamic Treatment Regimes (DTRs), and implementing such methods in real-world scenarios. In the context of multi-stage treatment decisions, a DTR is a sequence of decision rules which at each stage takes patient information (such as age, health status, or prior treatment) as input, and outputs a treatment recommendation. There are two challenges of practical interest I am focusing on, which are assumption violation and competing outcomes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
