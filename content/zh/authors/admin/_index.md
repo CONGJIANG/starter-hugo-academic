@@ -1,41 +1,36 @@
 ---
 # Display name
-title: 王祎然
+title: 姜聪
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 统计学博士
+role: 博士后
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 滑铁卢大学统计与精算系
-    url: https://uwaterloo.ca/statistics-and-actuarial-science/
+  - name: 蒙特利尔大学
+    url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的科研方向包括生态统计学、贝叶斯统计及其应用
+bio: 我的科研方向包括因果推断，精准医疗，动态治疗方案
 
 # Interests to show in About widget
 interests:
-  - 贝叶斯统计
-  - 生态统计学
-  - 音乐相关
-  - 排球
-  - 各种类型游戏
+  - 因果推断
+  - 半参推断
+
 
 # Education to show in About widget
 education:
   courses:
     - course: 统计学博士
-      institution: 滑铁卢大学
-      year: 2023
-    - course: 统计学硕士
-      institution: 加州大学尔湾分校
-      year: 2019
-    - course: 统计学学士
-      institution: 东华大学
-      year: 2017
+      institution: 滑铁卢大学，加拿大
+      year: 2022
+    - course: 数学硕士
+      institution: 纽约城市大学，美国
+      year: 2017 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,38 +39,36 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:y3577wan@uwaterloo.ca'
+    link: 'mailto:cong.jiang@umontreal.ca'
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Yiran_Wang32
+    link: https://www.researchgate.net/profile/Cong-Jiang-6
   - icon: github
     icon_pack: fab
-    link: https://github.com/zywhy9
+    link: https://github.com/CONGJIANG
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/harryyiranwang/
-  - icon: google
+    link: https://www.linkedin.com/in/clarencejiang/
+  - icon: google scholar
     icon_pack: fab
-    link: https://sites.google.com/view/yiranwangstat/home
-  - icon: video
-    icon_pack: fas
-    link: https://space.bilibili.com/749168
+    link: https://scholar.google.com/citations?user=L4Nw4HcAAAAJ&hl=en&oi=sra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/CongJiangCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zywhy9@gmail.com'
+email: 'cjiang698@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-我是滑铁卢大学[统计与精算系](https://uwaterloo.ca/statistics-and-actuarial-science/)三年级博士生，导师是[Audrey Béliveau](https://uwaterloo.ca/scholar/a2belive/home)教授和[Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy)教授。我的研究主要是关于贝叶斯模型的应用，目前主要研究统计生态学相关的模型，如标志重捕法和综合人口模型。来滑铁卢之前，我在[东华大学](https://www.dhu.edu.cn/)完成了本科的学业，之后在美国的[加州大学尔湾分校](https://www.uci.edu/)拿到了硕士学位。
+我在蒙特利尔大学做博士后，导师是[Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html)和[Denis Talbot](https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot)。
+我在滑铁卢大学获得博士学位，导师是[Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson)和[Michael P. Wallace](https://mpwallace.github.io/)。
 
 {{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/CV.pdf" "newtab" >}}简历{{< /staticref >}}
 
