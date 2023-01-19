@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: y3577wan@uwaterloo.ca
-  # phone: 888 888 88 88
+  email: cong.jiang@umontreal.com
+  # phone: (+1) 519-722-6158
   address:
-    street: Department of Statistics and Actuarial Science, University of Waterloo, 200 University Avenue West
-    city: Waterloo
-    region: 'ON'
-    postcode: 'N2L 3G1'
+    street: Faculté de pharmacie, Université de Montréal
+    city: Montreal
+    region: 'QC'
+    postcode: 'H3C 3J7'
     country: Canada
     country_code: CA
   coordinates:
     latitude: '43.473089'
     longitude: '-80.543951'
-  directions: M3 4128
+  directions: #2214, Pavillon Jean-Coutu
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
