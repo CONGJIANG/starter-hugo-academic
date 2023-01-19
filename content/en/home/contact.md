@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: cong.jiang@umontreal.com
+  email: cong.jiang@umontreal.ca
   # phone: (+1) 519-722-6158
   address:
     street: Faculté de pharmacie, Université de Montréal
@@ -35,8 +35,8 @@ content:
     country: Canada
     country_code: CA
   coordinates:
-    latitude: '43.473089'
-    longitude: '-80.543951'
+    latitude: '45.50052347671281'
+    longitude: '-73.61476890158093'
   directions: #2214, Pavillon Jean-Coutu
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
