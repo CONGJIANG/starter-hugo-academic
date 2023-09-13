@@ -63,7 +63,7 @@ social:
 #   icon_pack: ai
 #   link: uploads/.pdf
 
-Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'cjiang698@gmail.com'
 
 # Highlight the author in author lists? (true/false)
