@@ -21,6 +21,9 @@ interests:
   - Causal Inference
   - Dynamic Treatment Regimes
   - Interference
+  - Semiparametric/nonparametric theory
+  - Machine learning
+  - Health & public policy
 
 # Education to show in About widget
 education:
@@ -70,6 +73,6 @@ highlight_name: false
 I am currently a postdoctoral researcher at Université de Montréal under supervision of Prof. [Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html) and Prof. [Denis Talbot](https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot) (Université Laval). 
 I received my PhD from the University of Waterloo, where I worked under the supervision of Prof. [Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson) and Prof. [Michael P. Wallace](https://mpwallace.github.io/). 
 
-My primary research interest is in causal inference methodology. In general, I am interested in developing methodologies in Dynamic Treatment Regimes (DTRs), and implementing such methods in real-world scenarios. In the context of multi-stage treatment decisions, a DTR is a sequence of decision rules which at each stage takes patient information (such as age, health status, or prior treatment) as input, and outputs a treatment recommendation. There are two challenges of practical interest I am focusing on, which are assumption violation and competing outcomes.
+My main area of research interest centres around advancing the field of causal inference methodology. Specifically, I am deeply engaged in the development of methodologies related to Dynamic Treatment Regimes (DTRs) and their practical application in real-world contexts. In the realm of multi-stage treatment decisions, DTRs encompass a sequence of decision rules that leverage patient-specific information, such as age, health status, or prior treatment history, to generate tailored treatment recommendations at each stage. Within this domain, I am particularly focused on addressing two significant practical challenges: the violation of assumptions and the presence of competing outcomes. Currently, my research is centred on harnessing the power of machine learning and nonparametric efficiency techniques within the realm of causal inference.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
