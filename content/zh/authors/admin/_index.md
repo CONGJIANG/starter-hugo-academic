@@ -68,7 +68,7 @@ highlight_name: false
 ---
 
 我在蒙特利尔大学做博士后，导师是[Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html)和[Denis Talbot](https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot)。
-我在滑铁卢大学获得博士学位，导师是[Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson)和[Michael P. Wallace](https://mpwallace.github.io/)。
+我在滑铁卢大学获得博士学位，导师是[Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson)和[Michael P. Wallace](https://mpwallace.github.io/)。请看我的博士论文：[Dynamic Treatment Regimes with Interference](https://uwspace.uwaterloo.ca/handle/10012/18565)
 
 {{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/CongJiangCV.pdf" "newtab" >}}简历{{< /staticref >}}
 
