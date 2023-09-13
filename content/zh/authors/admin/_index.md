@@ -20,6 +20,9 @@ bio: 我的科研方向包括因果推断，精准医疗，动态治疗方案
 interests:
   - 因果推断
   - 半参推断
+  - 机器学习
+  - 精准医疗
+  - 动态治疗方案
 
 
 # Education to show in About widget
