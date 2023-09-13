@@ -73,5 +73,7 @@ highlight_name: false
 我在蒙特利尔大学做博士后，导师是[Mireille Schnitzer](https://www.mireilleschnitzer.com/research.html)和[Denis Talbot](https://www.crchudequebec.ulaval.ca/en/research/researchers/denis-talbot)。
 我在滑铁卢大学获得博士学位，导师是[Mary E. Thompson](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mary-thompson)和[Michael P. Wallace](https://mpwallace.github.io/)。请看我的博士论文：[Dynamic Treatment Regimes with Interference](https://uwspace.uwaterloo.ca/handle/10012/18565)。
 
+我的主要研究兴趣是推进因果推断方法领域的发展。具体来说，我致力于开发与动态治疗机制（Dynamic Treatment Regimes，DTRs）相关的方法及其在现实世界中的实际应用。在多阶段治疗决策领域，DTR 包括一系列决策规则，这些规则利用患者的特定信息（如年龄、健康状况或既往治疗史），在每个阶段生成量身定制的治疗建议。在这一领域，我尤其专注于解决两个重大的实际挑战：打破因果假设和存在竞争结果。目前，我的研究重点是在因果推断领域利用机器学习和半参/非参数推断方法。
+
 {{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/CongJiangCV.pdf" "newtab" >}}简历{{< /staticref >}}
 
