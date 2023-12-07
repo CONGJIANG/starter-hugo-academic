@@ -14,7 +14,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal inference and semi-paramtric inference. 
+bio: My research interests include causal inference and semi-parametric inference. 
 
 # Interests to show in About widget
 interests:
