@@ -18,11 +18,13 @@ bio: My research interests include causal inference and semi-paramtric inference
 
 # Interests to show in About widget
 interests:
-  - Causal Inference
+  - Causal machine learning and model-free causal inference
   - Dynamic Treatment Regimes
-  - Interference
-  - Semiparametric/nonparametric theory
-  - Machine learning
+  - Heterogeneous treatment effect
+  - Interference,
+  - Semiparametric/nonparametric theory,
+  - Test-negative designs
+  - Infectious diseases
   - Health & public policy
 
 # Education to show in About widget
