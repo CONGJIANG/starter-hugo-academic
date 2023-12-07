@@ -21,8 +21,8 @@ interests:
   - Causal machine learning and model-free causal inference
   - Dynamic Treatment Regimes
   - Heterogeneous treatment effect
-  - Interference,
-  - Semiparametric/nonparametric theory,
+  - Interference
+  - Semiparametric/nonparametric theory
   - Test-negative designs
   - Infectious diseases
   - Health & public policy
